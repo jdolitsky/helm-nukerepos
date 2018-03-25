@@ -1,0 +1,7 @@
+---
+name: "nukerepos"
+version: "0.1.0"
+usage: "Remove all repositories"
+description: "Remove all repositories"
+command: "$HELM_PLUGIN_DIR/nukerepos.sh"
+useTunnel: false
